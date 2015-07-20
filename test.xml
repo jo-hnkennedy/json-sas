@@ -1,0 +1,20 @@
+<xml>
+<firstName>John</firstName>
+<lastName>Smith</lastName>
+<isAlive>true</isAlive>
+<age>25</age>
+<address>
+<streetAddress>21 2nd Street</streetAddress>
+<city>NewYork</city>
+<state>NY</state>
+<postalCode>10021-3100</postalCode>
+</address>
+<spouse>null</spouse>
+<phoneNumbers>
+<number>212 555-1234</number>
+<type>home</type></phoneNumbers>
+<phoneNumbers>
+<number>646-555 4567</number>
+<type>office</type></phoneNumbers>		
+<children></children>
+</xml>
